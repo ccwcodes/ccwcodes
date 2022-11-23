@@ -1,6 +1,6 @@
 - 📡 Hi, I’m @ccwcodes
 - 💹 I’m interested in how it works!
-- 🌱 I’m currently learning Data Analytics 🔎
+- 🌱 I’m currently learning Software Development 🔎
 - 👩🏽‍💻 I'm transitioning to Tech 
 - 📫 You can reach out to me via email 📧
 
